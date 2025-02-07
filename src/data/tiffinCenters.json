@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "title": "ANNAPURNA-TIFFIN CENTER",
+    "description": "Healthy & tasty food now in your neighborhood at affordable price.",
+    "address": "Address:- 59, VishnuPuri Main Rd, Near Blue Bells Hotel, Bhawarkua square,Indore ",
+    "contact":"Contact no. :- (+91 99268-77435  +91 9644521345)",
+    "image": "/image/annapurna.jpg",
+    "alt": "Meal 1",
+    "features": ["Time 10am - 10pm", "Sunday-Spacial(One time)", "One-Time 1400 per month" ,"Two-Time 2600 per month","Regular Thali Rs 60 ","Total 5 days will extend if you leave the tiffin"]
+  },
+  {
+    "id": 2,
+    "title": "ANKIT-TIFFIN CENTER",
+    "description": "Perfectly cooked meals for your daily needs.",
+    "address": "Address:- Near A U small finance bank, Ahilyapuri colony, Bhanwar Kuwa, Indore ",
+    "contact":"Contact no. :- (+91 93995-47805)",
+    "image": "/image/ankit.jpg",
+    "alt": "Meal 2",
+   "features": ["Time 11am-10pm", "Sunday-Spacial(One time (11am-2pm))", "One-Time 1500 per month" ,"Two-Time 2800 per month","Regular Thali Rs 60 ","Total 7 days will extend if you leave the tiffin"]
+  },
+  {
+    "id": 3,
+    "title": "RACHANA'S KITCHEN",
+    "description": "Tasty and nutritious meals for everyone.",
+    "address": "Address:- House No.17, Scheme No.78, Part-2, Vijay Nagar, Indore - 452010 (Near- Prestige College)",
+    "contact":"Contact no. :- (+91 8460566214)",
+    "image": "/image/tiffin3.jpeg",
+    "alt": "Meal 3",
+    "features": ["Time 10am - 10pm", "Sunday-Spacial(One time)", "One-Time 1500 per month" ,"Two-Time 3000 per month","Regular Thali Rs 60 ","Total 5 days will extent if you leave the tiffin"]
+  },
+  {
+    "id": 4,
+    "title": "KHUSHI-TIFFIN CENTER",
+    "description": "A symphony of flavors.",
+    "address": "Address:- 18, near Sapna Sangeeta Road, Professor Colony, Indore, Madhya Pradesh 452001 ",
+    "contact":"Contact no. :- (+91 70248-32281)",
+    "image": "/image/Khushi.jpg",
+    "alt": "Meal 4",
+    "features": ["Time 8am - 8pm", "Sunday-Spacial(One time)", "One-Time 1500 per month" ,"Two-Time 2700 per month","Regular Thali Rs 60 ","Total 7 days will extent if you leave the tiffin"]
+  },
+  {
+    "id": 5,
+    "title": "SHIDDH KISHORI-TIFFIN CENTER",
+    "description": "Taste the expertise in every bite: A promise of culinary excellence.",
+    "address": "Address:- Bhawarkua Main Rd, Tower Square, Swadesh Nagar, Indore, Madhya Pradesh 452001 ",
+    "contact":"Contact no. :- (+91 99268-77435  +91 9644521345)",
+    "image": "/image/shiddh1.jpg",
+    "alt": "Meal 5",
+    "features": ["Time 8am - 10pm", "Sunday-Spacial(One time)", "One-Time 1400 per month" ,"Two-Time 2600 per month","Regular Thali Rs 60 ","Total 5 days will extent if you leave the tiffin"]
+  },
+  {
+    "id": 6,
+    "title": "SANWARIYA MESS & TIFFIN CENTER",
+    "description": "Serving perfection, one bite at a time.",
+    "address": "Address:-  969, Near Brilliant Higher Secondary School, Tower Square, Khatiwala Tank, Indore, Madhya Pradesh 452001 ",
+    "contact":"Contact no. :- (+91 6268382496)",
+    "image": "/image/swariya.jpg",
+    "alt": "Meal 6",
+    "features": ["Time 8am - 11pm", "Sunday-Spacial(One time)", "One-Time 1400 per month" ,"Two-Time 2600 per month","Regular Thali Rs 60 ","Total 5 days will extent if you leave the tiffin"]
+  }
+]
+
+

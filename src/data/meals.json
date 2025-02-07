@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "ANNAPURNA-TIFFIN CENTER",
+    "description": "A delicious and healthy combination of flavors.",
+    "image": "/image/annapurna1.jpg",
+    "alt": "Meal 1"
+  },
+  {
+    "id": 2,
+    "title": "ANKIT-TIFFIN CENTER",
+    "description": "Perfectly cooked meals for your daily needs.",
+    "image": "/image/ankit.jpg",
+    "alt": "Meal 2"
+  },
+  {
+    "id": 3,
+    "title": "RACHANA'S KITCHEN",
+    "description": "Tasty and nutritious meals for everyone.",
+    "image": "/image/tiffin3.jpeg",
+    "alt": "Meal 3"
+  },
+  {
+    "id": 4,
+    "title": "KHUSHI-TIFFIN CENTER",
+    "description": "A symphony of flavors.",
+    "image": "/image/khushi2.jpg",
+    "alt": "Meal 4"
+  },
+  {
+    "id": 5,
+    "title": "SHIDDH KISHORI-TIFFIN CENTER",
+    "description": "Taste the expertise in every bite.",
+    "image": "/image/shiddh.jpeg",
+    "alt": "Meal 5"
+  },
+  {
+    "id": 6,
+    "title": "SANWARIYA MESS & TIFFIN CENTER",
+    "description": "Serving perfection, one bite at a time.",
+    "image": "/image/swariya1.jpg",
+    "alt": "Meal 6"
+  }
+]
